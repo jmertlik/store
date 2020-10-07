@@ -2,7 +2,7 @@
   ecwidMessages = {
   "BuyNow.buy_now":"Add to registration"}; 
   
-  // Initialize extra fields
+  // Initialize extra fields hello
 	ec.order = ec.order || {};
 	ec.order.extraFields = ec.order.extraFields || {};
 
