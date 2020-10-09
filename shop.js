@@ -11,7 +11,7 @@
     'textPlaceholder': 'Child\'s name',
     'type': 'text',
     'required': true,
-    'checkoutDisplaySection': 'customer_info'
+    'checkoutDisplaySection': 'payment_details'
 };
 
 ec.order.extraFields.teacher_name = {
@@ -19,7 +19,7 @@ ec.order.extraFields.teacher_name = {
     'textPlaceholder': 'Name of teacher',
     'type': 'text',
     'required': true,
-    'checkoutDisplaySection': 'customer_info'
+    'checkoutDisplaySection': 'payment_details'
 };
 
 ec.order.extraFields.teacher_email = {
@@ -27,7 +27,7 @@ ec.order.extraFields.teacher_email = {
     'textPlaceholder': 'Email of teacher',
     'type': 'text',
     'required': true,
-    'checkoutDisplaySection': 'customer_info'
+    'checkoutDisplaySection': 'payment_details'
 };
 
 Ecwid.refreshConfig();
