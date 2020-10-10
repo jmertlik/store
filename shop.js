@@ -1,5 +1,4 @@
-<script type="text/javascript">
-  ecwidMessages = {
+ ecwidMessages = {
   "BuyNow.buy_now":"Add to registration"}; 
   
   // Initialize extra fields hello
@@ -31,5 +30,3 @@ ec.order.extraFields.teacher_email = {
 };
 
 Ecwid.refreshConfig();
-  
-</script>
